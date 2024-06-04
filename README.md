@@ -1,7 +1,13 @@
-# Vue 3 + Vite
+# Proyecto de Registro y Ubicación con Vue 3 + Vite
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Este proyecto utiliza Vue 3 y Vite para desarrollar una aplicación web que permite registrar personas y proporcionar su ubicación.
 
-## Recommended IDE Setup
+## Funcionalidades
 
-- [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (previously Volar) and disable Vetur
+- Registro de personas: Los usuarios pueden ingresar sus datos personales para registrarse en el sistema.
+- Ubicación: Los usuarios pueden compartir su ubicación, que se muestra en un mapa interactivo.
+
+## Requisitos
+
+- Node.js y npm
+- Un editor de código como WebStorm 2024.1
